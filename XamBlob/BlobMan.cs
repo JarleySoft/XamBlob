@@ -19,7 +19,7 @@ namespace XamBlob
 		}
 
 		// Get this from the Azure Portal by clicking the "key" icon of the storage.
-		const string connectionString = "DefaultEndpointsProtocol=https;AccountName=krumelurtest1;AccountKey=Ys7kxm6biyF9ZDCLR+i9X9qPlf9ZMkPkJVbLkOYvnr/sFWJtqgIGL+BNbY6lqYElEnV0GnUBRTSUB2yuhzBvAA==;";
+		const string connectionString = "DefaultEndpointsProtocol=https;AccountName=xamblobdemo;AccountKey=sYNOpGKk5QpaRGcGi3Wz/GcQ0imQRKUE15A/gMpmdt47C4xCV5Y8hheuG5BIQtwbN5K5sn91CAOSGVXmdFZpag==;";
 
 		// Create the blob client.
 		CloudBlobClient _blobClient = CloudStorageAccount
